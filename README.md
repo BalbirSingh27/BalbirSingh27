@@ -48,7 +48,6 @@ I've worked on real-world projects in:
 
 ## 🛠 Skills
 
-### Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&style=flat-square)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&style=flat-square)
@@ -66,6 +65,7 @@ I've worked on real-world projects in:
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&style=flat-square)
 
+### Technical Skills
 - **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization, Sentiment Analysis, Predictive Modeling, A/B Testing, Optimization Analysis  
 - **Domains:** Supply Chain, Inventory Optimization, Risk Management, Marketing Analytics, Customer Analytics, Operations Analytics, Financial Analytics  
 - **Tools:** Databricks, Microsoft Office Suite, Tableau, Power BI, Excel, SQL, Python, Jupyter Notebook, AWS, AWS SageMaker, AWS Virtual Machine
@@ -82,11 +82,6 @@ I've worked on real-world projects in:
 - **Business Acumen:** Aligning analytics with organizational goals  
 - **Storytelling with Data:** Crafting compelling narratives via visualizations  
 - **Time Management:** Delivering projects efficiently under deadlines  
-
-- **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization, Sentiment Analysis, Predictive Modeling, A/B Testing, Optimization Analysis  
-- **Domains:** Supply Chain, Inventory Optimization, Risk Management, Marketing Analytics, Customer Analytics, Operations Analytics, Financial Analytics  
-- **Tools:** Databricks, Microsoft Office Suite, Tableau, Power BI, Excel, SQL, Python, Jupyter Notebook
-
 ---
 
 ## 📊 Professional Experience

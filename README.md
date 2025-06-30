@@ -112,7 +112,7 @@ If your team values a data-driven mindset and is looking for someone who combine
 - 📊 Visualized trends with **Matplotlib** and **Seaborn**, improving insight delivery speed by **20%**.
 
 <p align="center">
-  <a href="https://github.com/BalbirSingh27/Shopping-Reviews-Sentiment">View Shopping Reviews Sentiment Analysis Project</a>
+  <a href="https://github.com/BalbirSingh27/AWS-SageMaker-Sentiment-Analysis-Shopping-Reviews">View AWS SageMaker Sentiment Analysis Project</a>
 </p>
 
 ### Property Maintenance Trends

@@ -70,6 +70,7 @@ I've worked on real-world projects in:
 - **Domains:** Supply Chain, Inventory Optimization, Risk Management, Marketing Analytics, Customer Analytics, Operations Analytics, Financial Analytics  
 - **Tools:** Databricks, Microsoft Office Suite, Tableau, Power BI, Excel, SQL, Python, Jupyter Notebook, AWS, AWS SageMaker, AWS Virtual Machine
 
+
 ### Soft Skills
 - **Analytical Thinking:** Dissecting complex datasets for actionable insights  
 - **Communication:** Presenting data findings clearly to stakeholders  

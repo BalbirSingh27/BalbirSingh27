@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>
   <p class="glow-text">
@@ -68,23 +69,7 @@ I’m captivated by data’s ability to solve real-world problems, from streamli
 - **Attention to Detail:** Ensuring high accuracy in data processes  
 - **Business Acumen:** Aligning analytics with organizational goals  
 - **Storytelling with Data:** Crafting compelling narratives via visualizations  
-- **Time Management:** Delivering projects efficiently under deadlines
-
-  ## 🔍 What I'm Looking For
-
-- 🔧 Full-time roles in **Data Analytics** / **Business Intelligence**
-- 🌍 Sponsorship-friendly employers (OPT STEM)
-- 💬 Collaborative, data-driven teams focused on insights & automation
-
----
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:bsingh73@asu.edu"><img src="https://img.shields.io/badge/Email-bsingh73@asu.edu-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/balbir-singh27"><img src="https://img.shields.io/badge/LinkedIn-Balbir%20Singh-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/BalbirSingh27"><img src="https://img.shields.io/badge/GitHub-BalbirSingh27-black?style=for-the-badge&logo=github"></a>
-</p>
+- **Time Management:** Delivering projects efficiently under deadlines  
 
 ---
 

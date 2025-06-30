@@ -36,6 +36,14 @@ I’m a passionate Business & Data Analyst seeking to drive strategic impact thr
 
 I’m captivated by data’s ability to solve real-world problems, from streamlining operations to boosting customer engagement. My passion for uncovering insights drives measurable results, like revenue growth or process efficiency. I thrive on blending **AI-driven analytics** with clear storytelling to empower decisions, and my curiosity keeps me learning cutting-edge tools to stay ahead in this fast-evolving field.
 
+
+I've worked on real-world projects in:
+
+- 🧠 **Machine Learning & AI** (XGBoost, CNN, Transfer Learning)
+- 📊 **Data Visualization** (Power BI, Tableau, Matplotlib)
+- 🛠️ **Data Analysis & Strategy** (SQL, Python, Pandas, Excel)
+- ☁️ **Cloud & Deployment** (AWS EC2, SageMaker)
+
 ---
 
 ## 🛠 Skills
@@ -46,6 +54,9 @@ I’m captivated by data’s ability to solve real-world problems, from streamli
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&style=flat-square)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&style=flat-square)
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=flat-square)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?logo=amazon-aws&style=flat-square)
+![AWS SageMaker](https://img.shields.io/badge/-AWS%20SageMaker-232F3E?logo=amazon-aws&style=flat-square)
 ![Databricks](https://img.shields.io/badge/-Databricks-D9232E?logo=databricks&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
@@ -74,18 +85,6 @@ I’m captivated by data’s ability to solve real-world problems, from streamli
 - **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization, Sentiment Analysis, Predictive Modeling, A/B Testing, Optimization Analysis  
 - **Domains:** Supply Chain, Inventory Optimization, Risk Management, Marketing Analytics, Customer Analytics, Operations Analytics, Financial Analytics  
 - **Tools:** Databricks, Microsoft Office Suite, Tableau, Power BI, Excel, SQL, Python, Jupyter Notebook
-
-### Soft Skills
-- **Analytical Thinking:** Dissecting complex datasets for actionable insights  
-- **Communication:** Presenting data findings clearly to stakeholders  
-- **Critical Thinking:** Assessing data quality for robust analysis  
-- **Problem-Solving:** Developing data-driven solutions for business challenges  
-- **Team Collaboration:** Working effectively with cross-functional teams  
-- **Adaptability:** Embracing new tools and industry trends  
-- **Attention to Detail:** Ensuring high accuracy in data processes  
-- **Business Acumen:** Aligning analytics with organizational goals  
-- **Storytelling with Data:** Crafting compelling narratives via visualizations  
-- **Time Management:** Delivering projects efficiently under deadlines  
 
 ---
 

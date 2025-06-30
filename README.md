@@ -1,11 +1,10 @@
 
 <div align="center">
-  <h1 class="glow-text">✨👋 Hi, I'm Balbir Singh!✨</h1>
+ <h1 align="center">👋 <span style="color:#00CED1;"><strong>Hi, I'm Balbir Singh!</strong></span> ✨</h1>
     <em>Business & Data Analyst | Transforming Data into Actionable Insights</em><br>
     MS in Business Analytics @ ASU W. P. Carey School of Business
   </p>
-Transforming Data into Actionable Insights<br>
-MS in Business Analytics @ ASU W. P. Carey School of Business</p>
+</div>
 
 
 ## 👤 About Me

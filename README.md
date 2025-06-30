@@ -1,24 +1,12 @@
 
 <div align="center">
-  <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>
-  <p class="glow-text">
-    <div align="center">
-  
-    }
-  </style>
-  <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>
+  <h1 class="glow-text">✨👋 Hi, I'm Balbir Singh!✨</h1>
     <em>Business & Data Analyst | Transforming Data into Actionable Insights</em><br>
     MS in Business Analytics @ ASU W. P. Carey School of Business
   </p>
+Transforming Data into Actionable Insights<br>
+MS in Business Analytics @ ASU W. P. Carey School of Business</p>
 
-  <p>
-    <a href="mailto:bsingh73@asu.edu"><img src="https://img.shields.io/badge/Email-bsingh73@asu.edu-blueviolet?style=flat-square&logo=gmail"></a>
-    <a href="https://www.linkedin.com/in/bsingh27"><img src="https://img.shields.io/badge/LinkedIn-bsingh27-blue?style=flat-square&logo=linkedin"></a>
-    <a href="https://github.com/BalbirSingh27"><img src="https://img.shields.io/badge/GitHub-BalbirSingh27-black?style=flat-square&logo=github"></a>
-  </p>
-</div>
-
----
 
 ## 👤 About Me
 

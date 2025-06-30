@@ -41,22 +41,19 @@ I’m captivated by data’s ability to solve real-world problems, from streamli
 ## 🛠 Skills
 
 ### Technical Skills
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat-square)
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=white&style=flat-square)
-- ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
-- ![Databricks](https://img.shields.io/badge/-Databricks-D9232E?logo=databricks&logoColor=white&style=flat-square)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-- ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat-square)
-- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=flat-square)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
-- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat-square)
-- ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square)
-- ![AWS SageMaker](https://img.shields.io/badge/-SageMaker-FF9900?logo=amazon-aws&logoColor=white&style=flat-square&label=SageMaker)
-- ![AWS Virtual Machine](https://img.shields.io/badge/-VM-FF9900?logo=amazon-aws&logoColor=white&style=flat-square&label=Virtual%20Machine)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&style=flat-square)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&style=flat-square)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&style=flat-square)
+![Databricks](https://img.shields.io/badge/-Databricks-D9232E?logo=databricks&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&style=flat-square)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&style=flat-square)
 
 - **Analytics:** Forecasting, KPI Tracking, Statistical Modeling, Data Visualization, Sentiment Analysis, Predictive Modeling, A/B Testing, Optimization Analysis  
 - **Domains:** Supply Chain, Inventory Optimization, Risk Management, Marketing Analytics, Customer Analytics, Operations Analytics, Financial Analytics  

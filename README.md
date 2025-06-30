@@ -3,14 +3,7 @@
   <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>
   <p class="glow-text">
     <div align="center">
-  <style>
-    .glow-text {
-      text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #f0f; /* Glow effect */
-      color: #fff; /* White text for readability over gradient */
-      background: linear-gradient(to right, #1e90ff, #8a2be2); /* Blue to purple gradient */
-      -webkit-background-clip: text; /* Clip background to text */
-      background-clip: text; /* Standard property */
-      -webkit-text-fill-color: transparent; /* Make text use gradient */
+  
     }
   </style>
   <h1 class="glow-text">👋 Hi, I'm Balbir Singh!</h1>

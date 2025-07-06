@@ -153,6 +153,18 @@ If your team values a data-driven mindset and is looking for someone who combine
   <a href="https://github.com/BalbirSingh27/AWS-SageMaker-Sentiment-Analysis-Shopping-Reviews">View AWS SageMaker Sentiment Analysis Project</a>
 </p>
 
+### Stanley Water Bottles – Marketing Analytics
+*January 2025 - March 2025*
+- 🧠 Conducted a **survey-based market study** using **Enginius** to evaluate consumer perception and preference for Stanley vs. competitors like Hydro Flask, Yeti, and ThermoFlask.  
+- 📊 Performed **segmentation**, **conjoint analysis**, and **perceptual mapping** across 7 product attributes: price, quality, insulation, style, etc.  
+- 🧾 Derived 4 actionable marketing strategies tailored for Gen Z based on data insights.  
+- 🛠 Tools used: **Enginius**, **Google Forms**, **Excel**, **Microsoft PowerPoint**  
+- 📋 Survey Sample Size: 120+ College Students  
+
+<p align="center">
+  <a href="https://github.com/BalbirSingh27/Stanley-Drinkware-Market-Analysis-Brand-Perception-Strategic-Insights">View Stanley Drinkware Market Analysis & Brand Perception Project</a>
+</p>
+
 ### Property Maintenance Trends
 *August 2024 - October 2024*
 - 🏘 Analyzed complaint patterns with **Python**, identifying areas with **25% more issues** than benchmarks.  

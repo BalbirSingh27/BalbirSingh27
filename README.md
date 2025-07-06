@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Balbir+Singh!;Data+%26+Business+Analyst;💡+ML+Learner+%7C+Turning+Data+into+Smart+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%7C+AWS;Seeking+Data+%26+Analytics+Roles;🌱+Living%2C+learning%2C+and+leveling+up" alt="Typing SVG" />
 </p>

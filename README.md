@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  <strong>🔍 Transforming Data into Actionable Insights</strong><br>
-  <strong>🎓 MS in Business Analytics @ ASU – W. P. Carey School of Business</strong>
+  <strong>Transforming Data into Actionable Insights</strong><br>
+  <strong>MS in Business Analytics @ <a href="https://www.asu.edu">ASU</a> – <a href="https://wpcarey.asu.edu/">W. P. Carey School of Business</a></strong>
 </p>
+
+
 
 
 

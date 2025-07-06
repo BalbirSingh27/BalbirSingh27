@@ -1,15 +1,19 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Balbir+Singh!;Data+%26+Business+Analyst;💡+ML+Learner+%7C+Turning+Data+into+Smart+Decisions;Python+%7C+SQL+%7C+Power+BI+%7C+Excel+%7C+AWS;Seeking+Data+%26+Analytics+Roles;🌱+Living%2C+learning%2C+and+leveling+up" alt="Typing SVG" />
+</p>
 
-<div align="center">
- <h1 align="center">👋 <span style="color:#00CED1;"><strong>Hi, I'm Balbir Singh!</strong></span> ✨</h1>
-    <em>Business & Data Analyst | Transforming Data into Actionable Insights</em><br>
-    MS in Business Analytics @ ASU W. P. Carey School of Business
-  </p>
-</div>
+<p align="center">
+  <strong>🔍 Transforming Data into Actionable Insights</strong><br>
+  <strong>🎓 MS in Business Analytics @ ASU – W. P. Carey School of Business</strong>
+</p>
+
 
 
 ## 👤 About Me
 
-I’m a passionate Business & Data Analyst seeking to drive strategic impact through data. I earned my Master’s in Business Analytics (3.88/4.0) from [Arizona State University](https://www.asu.edu)’s W. P. Carey School of Business in May 2025, receiving a $5,000 International Scholarship. My coursework in **Machine Learning**, **Unstructured Data Analytics**, **AI & Data Analytics Strategy**, and more, alongside my BS in Computer Science (3.4/4.0), equips me to tackle complex challenges. Skilled in **Python**, **SQL**, **Tableau**, and **Power BI**, I’m fueled by curiosity and a global perspective. Outside work, I enjoy swimming, soccer, strength training, volleyball, skydiving, and adventure travel.
+I’m a passionate Business & Data Analyst seeking to drive strategic impact through data. I earned my Master’s in Business Analytics from [Arizona State University](https://www.asu.edu)’s W. P. Carey School of Business in May 2025, receiving a $5,000 International Scholarship. My coursework in **Machine Learning (ML)**, **Unstructured Data Analytics**, **AI & Data Analytics Strategy**, and more, alongside my BS in Computer Science , equips me to tackle complex challenges. Skilled in **Python**, **SQL**, **Tableau**, and **Power BI**, **AWS**, I’m fueled by curiosity and a global perspective. Outside work, I enjoy swimming, soccer, strength training, volleyball, skydiving, and adventure travel.
+
+📈 Always learning. Always building. Always improving.
 
 ---
 
@@ -27,6 +31,27 @@ I’m a passionate Business & Data Analyst seeking to drive strategic impact thr
 ## 💡 Why I Love Data Analytics
 
 I’m captivated by data’s ability to solve real-world problems, from streamlining operations to boosting customer engagement. My passion for uncovering insights drives measurable results, like revenue growth or process efficiency. I thrive on blending **AI-driven analytics** with clear storytelling to empower decisions, and my curiosity keeps me learning cutting-edge tools to stay ahead in this fast-evolving field.
+
+---
+
+---
+
+## 📚 Currently Learning
+
+- **NLTK, spaCy** – for Natural Language Processing and text mining  
+- **K-Nearest Neighbors (KNN), Naive Bayes, Decision Trees, Logistic Regression** – for ML classification and prediction  
+- **AWS (SageMaker, S3, Lambda, QuickSight, Athena)** – for ML, storage, automation, querying, and data visualization  
+- **Snowflake, Redshift** – for scalable cloud data warehousing and analytics  
+- **Databricks, Apache Spark** – for big data processing and collaborative analytics  
+- **BigQuery** – for serverless SQL analytics at scale  
+- **Alteryx, Apache Airflow** – for ETL, workflow automation, and orchestration  
+- **dbt (Data Build Tool)** – for modular, version-controlled SQL transformations  
+- **Looker, Google Data Studio** – for modern BI dashboards and storytelling  
+- **PostgreSQL, MongoDB** – for structured and NoSQL database querying
+
+This continuous learning mindset ensures I stay current with best practices and technologies that deliver high-impact, business-aligned insights.
+
+---
 
 ## 🔍 What I’m Looking For
 

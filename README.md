@@ -11,7 +11,16 @@
 
 ## 👤 About Me
 
-I’m a passionate Business & Data Analyst seeking to drive strategic impact through data. I earned my Master’s in Business Analytics from [Arizona State University](https://www.asu.edu)’s W. P. Carey School of Business in May 2025, receiving a $5,000 International Scholarship. My coursework in **Machine Learning (ML)**, **Unstructured Data Analytics**, **AI & Data Analytics Strategy**, and more, alongside my BS in Computer Science , equips me to tackle complex challenges. Skilled in **Python**, **SQL**, **Tableau**, and **Power BI**, **AWS**, I’m fueled by curiosity and a global perspective. Outside work, I enjoy swimming, soccer, strength training, volleyball, skydiving, and adventure travel.
+I’m a passionate Business & Data Analyst seeking to drive strategic impact through data. I earned my Master’s in Business Analytics from [Arizona State University](https://www.asu.edu)’s W. P. Carey School of Business in May 2025, receiving a $5,000 International Scholarship. My coursework in **Machine Learning (ML)**, **Unstructured Data Analytics**, **AI & Data Analytics Strategy**, and more, alongside my BS in Computer Science , equips me to tackle complex challenges.I’m fueled by curiosity and a global perspective. My experience spans both technical and business-facing analytics projects, including:
+- 📦 **Demand Forecasting for Avnet** – Applied **Python** and **XGBoost** to increase forecast accuracy by 35% and support strategic supply chain decisions  
+- 🛍 **Sentiment Analysis of Shopping Reviews** – Leveraged **NLTK** and **AWS SageMaker** for text classification and trend insights, boosting campaign targeting effectiveness  
+- 🏘 **Community Complaint Analysis (City of Phoenix)** – Used **Python** and **Seaborn** to visualize complaint patterns and support city maintenance strategies  
+- 📈 **Stanley Market Positioning & Perception Analysis** – Conducted a survey-based study across 7 product attributes with 120+ college students. Created perceptual maps, SWOT analysis, and competitive benchmarks vs. Yeti, Hydro Flask, and ThermoFlask. Delivered 4 Gen Z-focused marketing strategies, applying Excel and PowerPoint for analytics and storytelling
+
+These projects sharpened my skills in **Python**, **SQL**, **Power BI**, **Tableau**, **Excel**, and **AWS**, and strengthened my ability to connect analytics to business strategy. I’ve also gained experience in **market research**, **consumer perception modeling**, and **data-driven marketing**.
+
+I’m curious by nature, always exploring tools like **Snowflake**, **Databricks**, **NLTK**, and **Airflow** to stay at the cutting edge of data and business analytics.
+Outside of work, I enjoy swimming, soccer, strength training, volleyball, skydiving, and adventure travel.
 
 📈 Always learning. Always building. Always improving.
 
@@ -47,7 +56,8 @@ I’m captivated by data’s ability to solve real-world problems, from streamli
 - **Alteryx, Apache Airflow** – for ETL, workflow automation, and orchestration  
 - **dbt (Data Build Tool)** – for modular, version-controlled SQL transformations  
 - **Looker, Google Data Studio** – for modern BI dashboards and storytelling  
-- **PostgreSQL, MongoDB** – for structured and NoSQL database querying
+- **PostgreSQL, MongoDB** – for structured and NoSQL database querying  
+- **Google Analytics, Adobe Analytics, Quantum Metric** – for web traffic analysis, digital experience insights, and user behavior tracking
 
 This continuous learning mindset ensures I stay current with best practices and technologies that deliver high-impact, business-aligned insights.
 

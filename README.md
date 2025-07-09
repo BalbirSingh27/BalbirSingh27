@@ -100,16 +100,15 @@ If your team values a data-driven mindset and is looking for someone who combine
 - **Tools:** Databricks, Microsoft Office Suite, Tableau, Power BI, Excel, SQL, Python, Jupyter Notebook
 
 ### Soft Skills
-- **Analytical Thinking:** Dissecting complex datasets for actionable insights  
-- **Communication:** Presenting data findings clearly to stakeholders  
-- **Critical Thinking:** Assessing data quality for robust analysis  
-- **Problem-Solving:** Developing data-driven solutions for business challenges  
-- **Team Collaboration:** Working effectively with cross-functional teams  
-- **Adaptability:** Embracing new tools and industry trends  
-- **Attention to Detail:** Ensuring high accuracy in data processes  
-- **Business Acumen:** Aligning analytics with organizational goals  
-- **Storytelling with Data:** Crafting compelling narratives via visualizations  
-- **Time Management:** Delivering projects efficiently under deadlines  
+
+- **Analytical & Critical Thinking** – Dissecting complex datasets and assessing data quality for actionable insights  
+- **Data Storytelling & Communication** – Presenting findings clearly through compelling visualizations tailored to stakeholders  
+- **Problem Solving & Business Acumen** – Developing data-driven solutions aligned with organizational goals  
+- **Attention to Detail** – Ensuring accuracy and consistency across data processes and reporting  
+- **Team Collaboration** – Working effectively across cross-functional teams to deliver shared outcomes  
+- **Adaptability** – Quickly embracing new tools, technologies, and industry trends  
+- **Time Management** – Delivering high-quality work efficiently under tight deadlines  
+ 
 
 ---
 

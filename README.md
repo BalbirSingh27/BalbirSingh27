@@ -114,8 +114,8 @@ If your team values a data-driven mindset and is looking for someone who combine
 
 ## 📊 Professional Experience
 
-### Junior Data Analyst @ Pantech Solutions
-*September 2023 - May 2024, India*
+### Data Analyst @ Pantech Solutions
+*September 2023 - June 2024, India*
 - 🛠 Streamlined a dataset of **10,000+ entries** using **SQL** and **Python**, reducing redundancy by **20%** and improving operational efficiency by **15%** for sales and operations teams.  
 - 📊 Engineered and automated **interactive dashboards** in **Tableau** and **Power BI**, integrating CRM and ERP data, cutting manual reporting effort by **30%** and enhancing decision-making for business stakeholders.  
 - 🔍 Conducted **root-cause analysis** with **Python** and **Excel**, uncovering insights that drove a **12% revenue increase** by optimizing pricing strategies across key product lines.  

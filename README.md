@@ -112,12 +112,13 @@ If your team values a data-driven mindset and is looking for someone who combine
 ---
 ## 🎓 Education
 
-### MS in Business Analytics @ Arizona State University
+### MS in Business Analytics @ [Arizona State University](https://www.asu.edu)
 *August 2024 - May 2025, Tempe, AZ*
 
 I earned my Master’s in Business Analytics from the **W. P. Carey School of Business at Arizona State University**, where I was awarded a **$5,000** MSBA International Scholarship for academic excellence, maintaining a GPA of **3.88 out of 4.0**. My studies encompassed a wide range of topics including enterprise data analytics, machine learning in business, programming for AI and data analytics, descriptive and predictive analytics, business process analytics, analytical decision modeling, analytics of unstructured data, AI and data analytics strategy, an applied project, advanced marketing analytics, quantitative risk management, and a corporate project. Through this program, I developed strong skills in data-driven decision-making, machine learning, and strategic analytics.
 
-### BS in Computer Science @ Bhopal School of Social Sciences
+### Bachelors in Computer Applications @ [Bhopal School of Social Sciences](https://www.bsssbhopal.edu.in/)
+
 *June 2019 - April 2022, Bhopal, India*
 
 I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sciences** with honors, achieving a GPA of **3.4 out of 4.0**. My coursework covered Python and C programming, Java, C++, management information systems, RDBMS and Oracle, web application development with HTML, CSS, PHP, and MySQL, digital computer organization, and software engineering. This education provided me with a solid foundation in programming and technical problem-solving.

@@ -128,19 +128,11 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 ## 📊 Professional Experience
 
 ### Data Analyst @ Pantech Solutions
-*September 2023 - June 2024, India*
+*May 2021 - June 2024, India*
 - 🛠 Streamlined a dataset of **10,000+ entries** using **SQL** and **Python**, reducing redundancy by **20%** and improving operational efficiency by **15%** for sales and operations teams.  
 - 📊 Engineered and automated **interactive dashboards** in **Tableau** and **Power BI**, integrating CRM and ERP data, cutting manual reporting effort by **30%** and enhancing decision-making for business stakeholders.  
 - 🔍 Conducted **root-cause analysis** with **Python** and **Excel**, uncovering insights that drove a **12% revenue increase** by optimizing pricing strategies across key product lines.  
 - 🔄 Standardized **multi-source datasets** with **SQL** queries, improving data accuracy by **25%** and ensuring consistent metrics for cross-functional reporting.
-
-### Content Operations Analyst @ TaskUs
-*March 2022 - August 2023, India*
-- ⚙️ Automated processing of **200+ daily content records** using **Excel** (pivot tables, data validation) and **Python scripts**, achieving **98% data accuracy** and streamlining compliance operations for a global client.  
-- 📊 Developed **real-time Tableau dashboards** to analyze violation trends, enabling a **15% reduction in flagged content** through targeted process improvements and ensuring on-time report delivery.  
-- ⏩ Delivered **real-time insights** with **SQL** queries and **Excel**, speeding up strategic decisions by **20%** for management teams.  
-- 🤝 Collaborated with **global teams** to refine violation tracking metrics, improving compliance reporting and boosting stakeholder satisfaction by **30%**.
-
 ---
 
 ## 📁 Featured Projects

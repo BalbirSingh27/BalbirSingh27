@@ -127,12 +127,29 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 ## 📊 Professional Experience
 
+### Graduate Research Assistant – Behavioral Data Analytics  
+*Aug 2025 – Present | Arizona State University, W. P. Carey School of Business*  
+
+- Processed **100K+ behavioral interaction events** with **Python, pandas, and NumPy**, improving preprocessing efficiency by **30%** while demonstrating strong **problem-solving and attention to detail**.  
+- Designed and deployed **User Behavioral Profiles (UBP)** with **TensorFlow** and ML models (KNN, Naive Bayes, Decision Trees, Logistic Regression), boosting accuracy by **20%** and showing **adaptability in advanced analytics**.  
+- Implemented **NLP pipelines** with **NLTK** and **spaCy** to mine **50K+ feedback entries**, uncovering trends that supported research insights and strengthened **critical thinking and collaboration**.  
+- Built **Power BI, Tableau, and Looker dashboards**, enhancing stakeholder decision-making by **40%** and reinforcing **data storytelling and communication skills**.  
+- Applied **SAS, SPSS, and SAP Analytics Cloud** for regression, survey analysis, and scenario planning, showcasing **versatility across enterprise and academic tools**.  
+- Automated workflows with **Airflow, Alteryx, and AWS (SageMaker, Lambda, Athena, QuickSight)**, reducing reporting cycles by **35%** and cloud costs by **15%**, reflecting strong **time management and efficiency**.  
+- Optimized large-scale analysis using **Snowflake, Redshift, BigQuery, Databricks, and Apache Spark**, cutting runtimes by **40%** and demonstrating **precision in big-data management**.  
+
+
 ### Data Analyst @ Pantech Solutions
 *May 2021 - June 2024, India*
-- 🛠 Streamlined a dataset of **10,000+ entries** using **SQL** and **Python**, reducing redundancy by **20%** and improving operational efficiency by **15%** for sales and operations teams.  
+-- 🛠 Streamlined a dataset of **10,000+ entries** using **SQL** and **Python**, reducing redundancy by **20%** and improving operational efficiency by **15%** for sales and operations teams.  
 - 📊 Engineered and automated **interactive dashboards** in **Tableau** and **Power BI**, integrating CRM and ERP data, cutting manual reporting effort by **30%** and enhancing decision-making for business stakeholders.  
 - 🔍 Conducted **root-cause analysis** with **Python** and **Excel**, uncovering insights that drove a **12% revenue increase** by optimizing pricing strategies across key product lines.  
-- 🔄 Standardized **multi-source datasets** with **SQL** queries, improving data accuracy by **25%** and ensuring consistent metrics for cross-functional reporting.
+- 🔄 Standardized **multi-source datasets** with **SQL** queries, improving data accuracy by **25%** and ensuring consistent metrics for cross-functional reporting.  
+- 🤖 Applied **Machine Learning & Deep Learning models** (classification & regression) with **scikit-learn** and **TensorFlow**, improving predictive accuracy by **18%** in sales forecasting.  
+- 🖼 Built **computer vision prototypes** using **OpenCV** for defect detection and image analysis, increasing quality-check efficiency by **22%**.  
+- 🔬 Utilized **MATLAB & Simulink** for **embedded systems and control simulations**, reducing prototyping time by **20%** in lab-based projects.  
+- ☁️ Deployed analytics workflows on **AWS cloud services**, optimizing data pipelines and cutting computation cost by **15%**.  
+- 💡 Designed IoT-enabled solutions with **Raspberry Pi, sensors, and lab kits**, supporting **real-time data collection** and enhancing operational monitoring by **30%**.  
 ---
 
 ## 📁 Featured Projects

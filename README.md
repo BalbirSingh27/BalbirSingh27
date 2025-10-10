@@ -200,13 +200,17 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 ## 📜 Certifications
 
 - 🌐 Microsoft Certified: Power BI Data Analyst Associate (Microsoft)
-- 🏅 Lean Six Sigma Green Belt (AIGPE™)  
-- 🛠 Advanced SQL for Data Analysis (Analyst Builder)  
-- 📊 Data Analytics & Visualization (Forage)  
+- 🧮 SAS – Introduction to Statistical Analysis: Hypothesis Testing (Coursera)
+- 🧠 Google Data Analytics Professional Certificate (Google)
+- 🏅 Lean Six Sigma Green Belt (AIGPE™)
+- 🛠 Advanced SQL for Data Analysis (Analyst Builder)
+- 📊 Data Analytics & Visualization (Forage)
 - ✈️ Supply Chain Virtual Experience – GE Aerospace (Forage)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Certified-Microsoft%20Power%20BI%20Data%20Analyst%20Associate-0078D4?style=flat-square">
+  <img src="https://img.shields.io/badge/Certified-SAS%20Statistical%20Analysis-blue?style=flat-square&logo=sas">
+  <img src="https://img.shields.io/badge/Certified-Google%20Data%20Analytics-orange?style=flat-square&logo=google">
   <img src="https://img.shields.io/badge/Certified-Lean%20Six%20Sigma%20Green%20Belt-green?style=flat-square">
   <img src="https://img.shields.io/badge/Certified-Advanced%20SQL-blue?style=flat-square">
   <img src="https://img.shields.io/badge/Certified-Data%20Analytics%20%26%20Visualization-orange?style=flat-square">

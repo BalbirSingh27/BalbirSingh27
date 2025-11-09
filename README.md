@@ -127,6 +127,20 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 ## 📊 Professional Experience
 
+### Data & Growth Analytics Intern @ Microdose Movement / Nomadic
+
+ *Nov 2025 – Present |  San Diego CA (Remote)*  
+
+- Data Integration & Automation | Combined WooCommerce and GoHighLevel CRM data using Python & Node.js pipelines, improving data reliability and cutting reporting latency by 35%.
+
+- Social Listening & Sentiment Analysis | Developed **Reddit & Instagram scrapers** with **Python, SQL, and Node.js** APIs to analyze engagement sentiment, boosting campaign targeting accuracy by 15%.
+
+- Dashboarding & KPI Tracking | Automated **Power BI & Tableau dashboards** for AOV, CAC, LTV, and retention metrics, saving 6 hours/week of manual reporting.
+
+- AI Workflow Design | Built **n8n and Node.js** automation flows for campaign scheduling, lead scoring, and AI-driven content creation, raising email open rates by **10 percentage points**.
+
+- Collaboration & Project Management | Partnered with **Growth and Tech teams** to align **KPIs, track ROI**, and deliver analytics-driven solutions on schedule
+
 ### Graduate Research Assistant – Behavioral Data Analytics  
 *Aug 2025 – Present | Arizona State University, W. P. Carey School of Business*  
 

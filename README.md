@@ -154,8 +154,10 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 
 ### Data Analyst @ Pantech Solutions
+
 *May 2021 - June 2024, India*
--- 🛠 Streamlined a dataset of **10,000+ entries** using **SQL** and **Python**, reducing redundancy by **20%** and improving operational efficiency by **15%** for sales and operations teams.  
+
+- 🛠 Streamlined a dataset of **10,000+ entries** using **SQL** and **Python**, reducing redundancy by **20%** and improving operational efficiency by **15%** for sales and operations teams.  
 - 📊 Engineered and automated **interactive dashboards** in **Tableau** and **Power BI**, integrating CRM and ERP data, cutting manual reporting effort by **30%** and enhancing decision-making for business stakeholders.  
 - 🔍 Conducted **root-cause analysis** with **Python** and **Excel**, uncovering insights that drove a **12% revenue increase** by optimizing pricing strategies across key product lines.  
 - 🔄 Standardized **multi-source datasets** with **SQL** queries, improving data accuracy by **25%** and ensuring consistent metrics for cross-functional reporting.  

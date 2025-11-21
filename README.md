@@ -141,8 +141,8 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 - Collaboration & Project Management | Partnered with **Growth and Tech teams** to align **KPIs, track ROI**, and deliver analytics-driven solutions on schedule
 
-### Graduate Research Assistant – Behavioral Data Analytics  
-*Aug 2025 – Present | Arizona State University, W. P. Carey School of Business*  
+### Graduate Research Assistant  @ Arizona State University, W. P. Carey School of Business
+*Aug 2025 – Present | Tempe, AZ  (Remote)*  
 
 - Processed **100K+ behavioral interaction events** with **Python, pandas, and NumPy**, improving preprocessing efficiency by **30%** while demonstrating strong **problem-solving and attention to detail**.  
 - Designed and deployed **User Behavioral Profiles (UBP)** with **TensorFlow** and ML models (KNN, Naive Bayes, Decision Trees, Logistic Regression), boosting accuracy by **20%** and showing **adaptability in advanced analytics**.  

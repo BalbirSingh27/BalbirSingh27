@@ -127,19 +127,17 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 ## 📊 Professional Experience
 
-### Data & Growth Analytics Intern @ Microdose Movement / Nomadic
+### AI Automation Intern @ Trekka AI
 
- *Nov 2025 – Present |  San Diego CA (Remote)*  
-
-- Data Integration & Automation | Combined WooCommerce and GoHighLevel CRM data using Python & Node.js pipelines, improving data reliability and cutting reporting latency by 35%.
-
-- Social Listening & Sentiment Analysis | Developed **Reddit & Instagram scrapers** with **Python, SQL, and Node.js** APIs to analyze engagement sentiment, boosting campaign targeting accuracy by 15%.
-
-- Dashboarding & KPI Tracking | Automated **Power BI & Tableau dashboards** for AOV, CAC, LTV, and retention metrics, saving 6 hours/week of manual reporting.
-
-- AI Workflow Design | Built **n8n and Node.js** automation flows for campaign scheduling, lead scoring, and AI-driven content creation, raising email open rates by **10 percentage points**.
-
-- Collaboration & Project Management | Partnered with **Growth and Tech teams** to align **KPIs, track ROI**, and deliver analytics-driven solutions on schedule
+ *Dec 2025 – Present |  San Diego CA (Remote)*  
+ 
+- **AI & LLM Workflow Design** – Design and improve AI-driven automation pipelines using **LLMs (OpenAI / OpenRouter-compatible models)** to generate structured, rule-based outputs with higher consistency and reduced false positives.
+- **Prompt Engineering & Accuracy Optimization** – Iteratively refine prompt structures, apply constraint tuning, and analyze error patterns to balance **precision vs. recall, significantly improving model decision accuracy**.
+- **Backend Processing Pipelines** – Develop and maintain **Python-based data pipelines** to ingest, validate, and transform structured and unstructured inputs for scalableAI evaluation workflows
+- **AWS Cloud Integration** – Leverage **AWS services (Bedrock, S3, IAM, environment configuration)** to enable secure model execution, credential management, and cloud-based automation.
+- **Rule + AI Hybrid Systems** – Combine deterministic rule checks with **LLM reasoning** to improve **reliability, traceability, and explainability of AI outputs**.
+- **Batch Processing & Evaluation** – Execute large-scale batch runs, analyze output distributions, and benchmark results to identify gaps and continuously improve system performance.
+- **Collaboration & Iteration** – Work closely with **engineering and product teams** to debug issues, review logic flows, and ship incremental improvements under **tight timelines**.
 
 ### Graduate Research Assistant  @ Arizona State University, W. P. Carey School of Business
 *Aug 2025 – Present | Tempe, AZ  (Remote)*  

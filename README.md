@@ -129,7 +129,7 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 ### AI Automation Intern @ Trekka AI
 
- *Dec 2025 – Present |  San Diego CA (Remote)*  
+ *Dec 2025 – Present |  Sheridan,Wyoming (WY)  (Remote)*  
  
 - **AI & LLM Workflow Design** – Design and improve AI-driven automation pipelines using **LLMs (OpenAI / OpenRouter-compatible models)** to generate structured, rule-based outputs with higher consistency and reduced false positives.
 - **Prompt Engineering & Accuracy Optimization** – Iteratively refine prompt structures, apply constraint tuning, and analyze error patterns to balance **precision vs. recall, significantly improving model decision accuracy**.

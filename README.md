@@ -221,15 +221,6 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BalbirSingh27&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BalbirSingh27&theme=dracula&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
 ## 🤝 Let's Connect!
 
 <p align="center">

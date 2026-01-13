@@ -154,8 +154,7 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 - Designed IoT-enabled solutions with **Raspberry Pi, sensors, and lab kits**, supporting **real-time data collection** and enhancing operational monitoring by **30%**.  
 
 
-### Content Moderator – Teammate (Trust & Safety)  
-**TaskUs India Pvt. Limited**  
+### Content Moderator(Trust & Safety)  @  TaskUs India Pvt. Limited  ###
 *Mar 2022 – Aug 2023 | Indore, India*
 
 - Moderated **8,000+ Meta (Facebook & Instagram)** content items, maintaining 100% policy compliance in high-risk decision environments.  

@@ -141,17 +141,28 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 ### Data Analyst @ Pantech Solutions
 
-*May 2021 - June 2024, India*
+*September 2023 - May 2024, India*
 
-- 🛠 Streamlined a dataset of **10,000+ entries** using **SQL** and **Python**, reducing redundancy by **20%** and improving operational efficiency by **15%** for sales and operations teams.  
-- 📊 Engineered and automated **interactive dashboards** in **Tableau** and **Power BI**, integrating CRM and ERP data, cutting manual reporting effort by **30%** and enhancing decision-making for business stakeholders.  
-- 🔍 Conducted **root-cause analysis** with **Python** and **Excel**, uncovering insights that drove a **12% revenue increase** by optimizing pricing strategies across key product lines.  
-- 🔄 Standardized **multi-source datasets** with **SQL** queries, improving data accuracy by **25%** and ensuring consistent metrics for cross-functional reporting.  
-- 🤖 Applied **Machine Learning & Deep Learning models** (classification & regression) with **scikit-learn** and **TensorFlow**, improving predictive accuracy by **18%** in sales forecasting.  
-- 🖼 Built **computer vision prototypes** using **OpenCV** for defect detection and image analysis, increasing quality-check efficiency by **22%**.  
-- 🔬 Utilized **MATLAB & Simulink** for **embedded systems and control simulations**, reducing prototyping time by **20%** in lab-based projects.  
-- ☁️ Deployed analytics workflows on **AWS cloud services**, optimizing data pipelines and cutting computation cost by **15%**.  
-- 💡 Designed IoT-enabled solutions with **Raspberry Pi, sensors, and lab kits**, supporting **real-time data collection** and enhancing operational monitoring by **30%**.  
+- Streamlined a dataset of **10,000+ entries** using **SQL** and **Python**, reducing redundancy by **20%** and improving operational efficiency by **15%** for sales and operations teams.  
+- Engineered and automated **interactive dashboards** in **Tableau** and **Power BI**, integrating CRM and ERP data, cutting manual reporting effort by **30%** and enhancing decision-making for business stakeholders.  
+- Conducted **root-cause analysis** with **Python** and **Excel**, uncovering insights that drove a **12% revenue increase** by optimizing pricing strategies across key product lines.  
+- Standardized **multi-source datasets** with **SQL** queries, improving data accuracy by **25%** and ensuring consistent metrics for cross-functional reporting.  
+- Applied **Machine Learning & Deep Learning models** (classification & regression) with **scikit-learn** and **TensorFlow**, improving predictive accuracy by **18%** in sales forecasting.  
+- Built **computer vision prototypes** using **OpenCV** for defect detection and image analysis, increasing quality-check efficiency by **22%**.  
+- Utilized **MATLAB & Simulink** for **embedded systems and control simulations**, reducing prototyping time by **20%** in lab-based projects.  
+- Deployed analytics workflows on **AWS cloud services**, optimizing data pipelines and cutting computation cost by **15%**.  
+- Designed IoT-enabled solutions with **Raspberry Pi, sensors, and lab kits**, supporting **real-time data collection** and enhancing operational monitoring by **30%**.  
+
+
+### Content Moderator – Teammate (Trust & Safety)  
+**TaskUs India Pvt. Limited**  
+*Mar 2022 – Aug 2023 | Indore, India*
+
+- Moderated **8,000+ Meta (Facebook & Instagram)** content items, maintaining 100% policy compliance in high-risk decision environments.  
+- Sustained **1,500+** reviews per week with **100%** SLA and quality adherence in a metrics-driven workflow.  
+- Tracked **QA feedback, productivity metrics, and error trends using Excel**, maintaining **100% tool-scored accuracy**.  
+- Analyzed **policy violation patterns** and edge cases to prevent repeat errors and ensure **zero critical QA misses**.  
+- Collaborated with **QA, training, and policy teams** to resolve **200+ complex cases**, improving turnaround time by ~10%.  
 ---
 
 ## 📁 Featured Projects

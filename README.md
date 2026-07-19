@@ -68,7 +68,11 @@ This continuous learning mindset ensures I stay current with best practices and 
 
 ## 🔍 What I’m Looking For
 
-I am actively seeking **full-time opportunities** in the fields of **Data Analytics**, **Business Intelligence**, or **AI-driven Strategy**, where I can apply my technical expertise and business acumen to drive impactful decision-making.
+I currently work as a **Data and Platform Specialist at Ingram Micro**, focused on AI platform operations, data validation, and performance reporting for enterprise reseller accounts. I remain open to new opportunities in **Data Analytics**, **AI Platform Operations**, or **Business Intelligence**, where I can apply my experience to drive measurable business impact.
+
+- 💼 **Career Focus:** I'm passionate about maintaining data accuracy and reliability at scale — from AI output validation and QA to building KPI dashboards that support enterprise decision-making. I'm particularly interested in roles involving **AI platform operations**, **data validation**, **performance reporting**, or **process automation**.  
+- 🌐 **Work Authorization:** I am currently on **OPT with STEM extension eligibility**, and I'm open to companies willing to **sponsor H-1B** in the future.  
+- 🤝 **Team Culture:** I thrive in **collaborative, insight-driven environments** that value operational excellence, cross-functional teamwork, and continuous improvement.
 
 - 💼 **Career Focus:** I’m passionate about turning data into actionable insights that solve real-world problems. I'm particularly interested in roles involving **predictive analytics**, **dashboarding**, **process automation**, or **customer intelligence**.  
 - 🌐 **Work Authorization:** I am currently on **OPT with STEM extension eligibility**, and I’m looking for companies open to **sponsoring H-1B** in the future.  
@@ -127,8 +131,25 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 
 ## 📊 Professional Experience
 
+### Data and Platform Specialist @ Ingram Micro
+*June 2026 – Present | Buffalo, NY*
+
+- Monitored AI output quality on the **Xvantage** platform across **250+ daily transactions**, flagging pricing and data discrepancies and contributing to **99%+ accuracy**.
+- Supported **50+ enterprise reseller accounts** (Microsoft, Verizon, T-Mobile, Insight, Cisco, Dell Technologies), using **Xvantage** and **Zendesk** to maintain order accuracy and SLA compliance.
+- Managed **40+ daily support cases** in **Zendesk**, performing data validation, issue triage, and cross-functional resolution, reducing turnaround time by **25%**.
+- Validated **1,500+ weekly** customer, pricing, and product records via QA and reconciliation, reducing transaction discrepancies by **20%**.
+- Built **Excel** KPI reports and SOPs tracking SLA, backlog, and performance metrics, improving reporting visibility by **30%**.
+
+### Data & AI Annotation Analyst (Part-time) @ Handshake AI (Project Hedgehog)
+*December 2025 – May 2026 | Tempe, AZ (Remote)*
+
+- Evaluated and annotated **1,000+ multimodal AI data samples**, ensuring **98%+ annotation accuracy** through structured QA and data validation.
+- Built **Power BI** dashboards and **Excel** reports to track annotation productivity and quality KPIs, improving reporting visibility by **20%**.
+- Reviewed AI-generated outputs using **SQL, Excel, and Power BI**, identifying inconsistencies and driving continuous process improvements.
+- Authored annotation guidelines, SOPs, and workflow documentation, collaborating with AI operations teams to standardize quality across projects.
+
 ### Graduate Research Assistant  @ Arizona State University, W. P. Carey School of Business
-*Aug 2025 – Present | Tempe, AZ  (Remote)*  
+*Aug 2025 – June 2026 | Tempe, AZ  (Remote)*  
 
 - Processed **100K+ behavioral interaction events** with **Python, pandas, and NumPy**, improving preprocessing efficiency by **30%** while demonstrating strong **problem-solving and attention to detail**.  
 - Designed and deployed **User Behavioral Profiles (UBP)** with **TensorFlow** and ML models (KNN, Naive Bayes, Decision Trees, Logistic Regression), boosting accuracy by **20%** and showing **adaptability in advanced analytics**.  
@@ -139,7 +160,7 @@ I completed my Bachelor’s in Computer Science at **Bhopal School of Social Sci
 - Optimized large-scale analysis using **Snowflake, Redshift, BigQuery, Databricks, and Apache Spark**, cutting runtimes by **40%** and demonstrating **precision in big-data management**.  
 
 
-### Data Analyst @ Pantech Solutions
+###  Logistic Data Analyst @ Pantech Solutions
 
 *September 2023 - May 2024, India*
 
